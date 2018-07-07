@@ -1,0 +1,6 @@
+-----BEGIN RSA PRIVATE KEY-----
+Proc-Type: 4,ENCRYPTED
+DEK-Info: DES-EDE3-CBC,A1EADE8E8B39B5E8
+
+some ssh key
+-----END RSA PRIVATE KEY-----
