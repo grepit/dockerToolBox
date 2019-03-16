@@ -1,5 +1,8 @@
 
-![N|Solid](https://hub.docker.com/public/images/official/registry.png)
+
+![](https://d1q6f0aelx0por.cloudfront.net/icons/docker-edition-azure6.png )
+
+### Container Tool
 This container has the following tools:
 - openssl
 - password generator
