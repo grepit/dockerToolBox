@@ -21,7 +21,7 @@ The following scripts are under dockerToolBox/docker/toolBox
 ```sh
 >.\buildit.ps1
 ```
-- For Mac /Linux
+- For Mac /Linux. (for Mac: open --background -a Docker)
 ```sh
 $./buildit.sh
 ```
